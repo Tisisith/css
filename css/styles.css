@@ -1,0 +1,23 @@
+
+        body {
+            background-color: #EAFDFC;
+        }
+
+        hr {
+            border-style: dotted;
+            border-width: 5px;
+            border-color: grey;
+            border-bottom-style: none;
+        }
+        h3 {
+            color: #66bfbf;
+            font-weight: bold;
+        }
+        #nelson:hover{
+            color: red;
+        }
+       img:hover {
+        background-color: gold;
+       }
+
+        
